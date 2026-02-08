@@ -23,4 +23,3 @@ The analysis emphasizes how visibility is achieved through packet-level inspecti
 - **Detection-Relevant Observations**  
   Mapping observed traffic patterns and behaviors to detection logic, highlighting how packet analysis and rule-based detection support investigation and response.
 
-The files within this directory focus on technical observations and analytical reasoning derived from network and web traffic analysis, with emphasis on visibility, detection, and investigation within a SOC context.
