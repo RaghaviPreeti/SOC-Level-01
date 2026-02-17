@@ -13,7 +13,10 @@ The documentation covers the following areas:
 - Cyber defense and detection frameworks  
 - Phishing analysis and email security concepts  
 - Network traffic analysis and network security monitoring  
-- Introduction to detection mechanisms and rule-based alerting  
+- Introduction to detection mechanisms and rule-based alerting
+- Host-based detection mechanisms for Windows and Linux environments 
+- Proactive Threat Hunting principles and methodologies
+- Introduction to detection mechanisms and rule-based alerting
 
 ## Repository Contents
 
@@ -23,5 +26,5 @@ The documentation covers the following areas:
 ## Status
 
 - Path: SOC Level 01  
-- Coverage: Completed up to Network Security Monitoring
+- Coverage: Completed up to Proactive Threat Hunting
 
