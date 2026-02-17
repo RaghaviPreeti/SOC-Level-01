@@ -12,8 +12,7 @@ The documentation covers the following areas:
 - SOC analyst roles, workflows, and escalation processes  
 - Cyber defense and detection frameworks  
 - Phishing analysis and email security concepts  
-- Network traffic analysis and network security monitoring  
-- Introduction to detection mechanisms and rule-based alerting
+- Network traffic analysis and network security monitoring
 - Host-based detection mechanisms for Windows and Linux environments 
 - Proactive Threat Hunting principles and methodologies
 - Introduction to detection mechanisms and rule-based alerting
