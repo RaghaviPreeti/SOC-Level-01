@@ -1,29 +1,30 @@
 # TryHackMe SOC Level 01 – Documentation
 
-This repository contains structured documentation of concepts, frameworks, and analytical insights associated with the TryHackMe SOC Level 01 path.
+This repository contains my analysis, and investigation reports from the **TryHackMe SOC Level 01** path. It covers the transition from basic defensive concepts to practical SIEM triage, malware analysis, and incident investigation.
 
-The documentation focuses on defensive security principles, Security Operations Center (SOC) workflows, detection frameworks, and investigative reasoning. It is intended to capture conceptual understanding and analytical context.
+## Content & Lab Coverage
+The documentation is organized into the following technical areas:
 
-## Scope
+### **Security Frameworks**
+* Working with **MITRE ATT&CK**, the **Cyber Kill Chain**, and the **Pyramid of Pain** to categorize threats.
+* Understanding SOC workflows, alert triage, and escalation procedures.
 
-The documentation covers the following areas:
+### **Network & Web Monitoring**
+* Analyzing traffic with **Wireshark**, and **Tcpdump**.
+* Monitoring for web attacks (SQLi, XSS, Command Injection) via server logs.
+* Using **Snort** for intrusion detection.
 
-- Defensive security fundamentals and Blue Team concepts  
-- SOC analyst roles, workflows, and escalation processes  
-- Cyber defense and detection frameworks  
-- Phishing analysis and email security concepts  
-- Network traffic analysis and network security monitoring
-- Host-based detection mechanisms for Windows and Linux environments 
-- Proactive Threat Hunting principles and methodologies
-- Introduction to detection mechanisms and rule-based alerting
+### **Endpoint & Host Analysis**
+* Detecting threats on Windows and Linux using **Sysmon**, **Event Viewer**, and **Journalctl**.
+* Identifying **Living-off-the-Land (LotL)** techniques and malicious PowerShell/Bash scripts.
 
-## Repository Contents
+### **SIEM & Malware Analysis**
+* Querying and dashboarding within **Splunk** and **Elastic Stack**.
+* Performing static and dynamic analysis on malware samples to find C2 IPs and persistence.
+
+## Files
 
 - **[SOC_Level_01_Report.pdf](SOC_Level_01_Report.pdf)**  
   Consolidated documentation outlining key concepts, insights, and analytical observations.
-
-## Status
-
-- Path: SOC Level 01  
-- Coverage: Completed up to Proactive Threat Hunting
+- **`/Case_Reports`**: Individual markdown reports for the capstone challenges.
 
