@@ -26,6 +26,6 @@ The analysis emphasizes how visibility is achieved through packet-level inspecti
 * [**Linux Threat Detection**](./linux-detection.md): Overcoming logging limitations with Auditd and monitoring for Cron/Systemd persistence.
 * [**Windows Threat Detection**](./windows-detection.md): Identifying discovery commands and tool transfers using Sysmon and standard Event Logs.
 * [**Threat Hunting Principles**](./threat-hunting.md): Exploring the hunting loop, the Pyramid of Pain, and MITRE ATT&CK mapping.
-* [**SIEM Triage Analysis**](./SIEM_Triage.md): Methodology for log-based investigation, alert context, and reconstructing adversary timelines.
-* [**Malware Analysis Fundamentals**](./Malware_Analysis.md): Detailed workflows for static and dynamic analysis, including IOC extraction and behavioral monitoring.
+* [**SIEM Triage Analysis**](./SIEM-triage.md): Methodology for log-based investigation, alert context, and reconstructing adversary timelines.
+* [**Malware Analysis Fundamentals**](./malware-analysis.md): Detailed workflows for static and dynamic analysis, including IOC extraction and behavioral monitoring.
 
