@@ -26,4 +26,4 @@ The documentation is organized into the following technical areas:
 
 - **[SOC_Level_01_Report.pdf](SOC_Level_01_Report.pdf)**  
   Consolidated documentation outlining key concepts, insights, and analytical observations.
-- **`/Case_Reports`**: Report for the capstone challenges.
+- **[case-reports](SOC-Level-01\case-reports)**: Report for the capstone challenges.
