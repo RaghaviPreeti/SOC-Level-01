@@ -23,8 +23,10 @@ The analysis emphasizes how visibility is achieved through packet-level inspecti
 
 ## Analysis Deep Dives
 
+* [**Network Attack Surface Analysis**](./network-attack-surface-analysis.md): A streamlined triage approach to packet analysis, focusing on boundary traffic mapping, protocol anomalies, and packet inspection to isolate C2 beacons and exfiltration channels.
 * [**Linux Threat Detection**](./linux-detection.md): Overcoming logging limitations with Auditd and monitoring for Cron/Systemd persistence.
 * [**Windows Threat Detection**](./windows-detection.md): Identifying discovery commands and tool transfers using Sysmon and standard Event Logs.
+* [**Web Attack Surface Analysis**](./web-attack-surface-analysis.md): Auditing web application logs and request patterns to detect common exploitation vectors, injection vulnerabilities, and malicious web shell deployment.
 * [**Threat Hunting Principles**](./threat-hunting.md): Exploring the hunting loop, the Pyramid of Pain, and MITRE ATT&CK mapping.
 * [**SIEM Triage Analysis**](./SIEM-triage.md): Methodology for log-based investigation, alert context, and reconstructing adversary timelines.
 * [**Malware Analysis Fundamentals**](./malware-analysis.md): Detailed workflows for static and dynamic analysis, including IOC extraction and behavioral monitoring.
