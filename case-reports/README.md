@@ -19,4 +19,4 @@ This folder contains the documentation for the capstone rooms in the TryHackMe S
 * **Focus:** Full-chain attack investigation and exfiltration detection
 
 ---
-**Complete Report:** [Capstone_Report.pdf](./Capstone_Report.pdf)
+**Complete Report:** [Case_Report.pdf](./Case_Report.pdf)
